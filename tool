@@ -1,1 +1,0 @@
-File user agent kamu
